@@ -1,4 +1,4 @@
-# LM_CBSS_Slat_Source
+# LM_CBSS_Transmitter_Source
 
 Version 0.1:
   * SPI Communication Port Setup
